@@ -1,15 +1,28 @@
 {
-  "name": "vue_components",
+  "name": "vue-animated-card",
   "version": "0.1.0",
-  "private": true,
+  "description": "A vue package to create elegant cards with cool animation.",
+  "private": false,
+  "author": {
+    "name": "Jimmy Essel",
+    "email": "ekjimmy@yahoo.com"
+  },
+  "main": "./dist/vue-card.common.js",
+  "files": [
+    "dist/*"
+  ],
+  "keywords": ["vue3", "cards"],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "build-library" : "vue-cli-service build --target lib --name vue-card ./src/install.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "npm": "^9.8.1",
+    "vue": "^3.2.13",
+    "vue-sfc-rollup": "^4.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
