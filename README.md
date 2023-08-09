@@ -1,6 +1,6 @@
 [![npm](https://img.shields.io/npm/v/vue-animated-card?style=flat-square)](https://www.npmjs.com/package/vue-animated-card)
 [![npm](https://img.shields.io/npm/dw/vue-animated-card?style=flat-square)](https://www.npmjs.com/package/vue-animated-card)
-[![GitHub](https://img.shields.io/github/license/pyjim/vue-animated-card?style=flat-square)](https://github.com/PyJim/vue-animated-card/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/pyjim/vue-animated-card?style=flat-square)](https://github.com/PyJim/vue-card-documentation/blob/main/LICENSE)
 
 # Vue Animated Card
 
@@ -145,4 +145,4 @@ This scales the card to half its default dimensions (`width: 350px` and `height:
   }
 </script>
 ```
-See the [Vue Animated Card](https://www.npmjs.com/package/typewriter-effect) package for more information.
+See the [Vue Animated Card](https://pyjim.github.io/vue-card-documentation/) package for more information.
