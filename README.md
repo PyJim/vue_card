@@ -1,6 +1,6 @@
 [![npm](https://img.shields.io/npm/v/vue-animated-card?style=flat-square)](https://www.npmjs.com/package/vue-animated-card)
 [![npm](https://img.shields.io/npm/dw/vue-animated-card?style=flat-square)](https://www.npmjs.com/package/vue-animated-card)
-[![GitHub](https://img.shields.io/github/license/pyjim/vue-animated-card?style=flat-square)](https://github.com/PyJim/vue-card-documentation/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/pyjim/vue-card-documentation?style=flat-square)](https://github.com/PyJim/vue-card-documentation/blob/main/LICENSE)
 
 # Vue Animated Card
 
